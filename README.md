@@ -1,5 +1,6 @@
-![Screenshot 2023-11-15 152340](https://github.com/Kamali22004796/NearMe/assets/120567837/4f689c28-fd9c-4edb-b089-0ff5556957c6)# Ex04 Places Around Me
-## Date: 
+# Ex04 Places Around Me
+
+## Date: 27.09.2023
 
 ## AIM
 To develop a website to display details about the places around my house.
